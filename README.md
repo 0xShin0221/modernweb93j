@@ -1,3 +1,4 @@
+![architecture-diagram-AWS-Developer-Center_mythical-mysfits-application-architecture-1@1.5x.22db78a48a57bd00cce92f44146e96d3312ab1e3.png](https://d1.awsstatic.com/Getting%20Started/build-modern-app-fargate-lambda-dynamodb-python/architecture-diagram-AWS-Developer-Center_mythical-mysfits-application-architecture-1@1.5x.22db78a48a57bd00cce92f44146e96d3312ab1e3.png)
 ## モジュール 2: ウェブサーバーでのアプリケーションのホスト
 ### モジュール 2A: コアインフラストラクチャのセットアップ
 #### ステップ1 CloudFormationテンプレートのダウンロード
